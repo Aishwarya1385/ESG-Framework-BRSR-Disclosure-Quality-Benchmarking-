@@ -166,6 +166,7 @@ Composite BRSR disclosure score, highest to lowest. Colour bands: 🟢 ≥85% (L
 ---
 
 ## 4. Industry-Wise Benchmark
+![Industry ESG Comparison](Screenshot/ss4jpg.jpg)
 
 The view most relevant to sector-level regulatory or policy targeting — it shows where an entire sector, not just a single company, is systematically weak.
 
@@ -179,13 +180,13 @@ The view most relevant to sector-level regulatory or policy targeting — it sho
 | Construction & Materials | 90.7 | 61.7 | 55.6 | **69.3** |
 
 Information Technology and Healthcare lead on composite score, driven mainly by strong Environment and Social disclosure. Metals & Mining ranks last overall despite reasonable Environment scores — its Governance disclosure (avg. 47.6–76.2%) is the weakest of any sector, a material finding given the sector's higher regulatory and community-impact exposure under environmental-clearance and pollution-control law, where governance transparency arguably matters most.
-
+![Industry Summary Table](Screenshot/ss3.jpg)
 ---
 
 ## 5. Cross-Cutting Disclosure Gaps, Mapped to BRSR Principles and BRSR Core Status
 
 Averaging across all 27 companies by individual metric — rather than by company or sector — reveals which specific disclosure requirements are weak **system-wide**. Each metric is mapped to (i) its governing NGRBC Principle, and (ii) whether it sits inside SEBI's mandatorily-assured BRSR Core perimeter — the strongest single predictor, in this dataset, of how well a metric is disclosed.
-
+![Metric-Level Benchmark](Screenshot/ss2.jpg)
 ### 5.1 Environment (NGRBC Principle 6)
 
 | Metric | Avg (0–3) | NGRBC Principle / BRSR Core Status | Interpretation |
